@@ -1,0 +1,25 @@
+{
+  "name": "imooc",
+  "version": "0.0.1",
+  "description": "a movie site",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "bower": "^1.7.9",
+    "express": "^4.14.0",
+    "git": "^0.1.5",
+    "jade": "^1.11.0",
+    "moment": "^2.15.1",
+    "mongoose": "^4.6.2",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "movie"
+  ],
+  "author": "Hanlin <yuanhanlin@outlook.com>",
+  "license": "ISC"
+}
